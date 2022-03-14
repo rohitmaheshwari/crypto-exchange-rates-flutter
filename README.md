@@ -1,7 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
-# Bitcoin Ticker 🤑
+# Crypto Exchange Rates 🤑
 
 ## Our Goal
 
